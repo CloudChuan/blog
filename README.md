@@ -1,3 +1,3 @@
 # blog
 
-This is myfirst commit.
+This is my first commit.
